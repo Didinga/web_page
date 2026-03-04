@@ -1,39 +1,55 @@
-### Brief Description
+# Personal Portfolio
 
-This project is my portfolio, which includes various pages, including the home page, about, contact, and portfolio pages.
+![HTML](https://img.shields.io/badge/HTML5-CSS3-orange)
+![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-### Table of Contents
+My personal portfolio website built with pure HTML and CSS. No frameworks, no dependencies â€” just clean, hand-written code.
 
-1. [Description](#description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Project Structure](#project-structure)
-5. [License](#license)
+**Live site: https://didinga.github.io/web_page/**
 
-### Description
+---
 
-This portfolio serves as a presentation of my work and professional portfolio. It includes several pages, which are:
+## Pages
 
-- **Home Page (index.html):** Here visitors can get an overview of my work and skills.
-- **About Me (about.html):** This page provides more detailed information about me, my education, skills, and experience.
-- **Portfolio (portfolio.html):** Here I showcase my work projects and samples of my work.
-- **Contact (contact.html):** On this page, visitors will find a form to contact me.
-  
-### Installation
+- **index.html** â€” Home page with overview of skills and work
+- **omne.html** â€” About me, education and experience
+- **dovednosti.html** â€” Skills and technologies
+- **reference.html** â€” Projects and references
+- **kontakt.html** â€” Contact page
 
-To set up this project on your local machine, simply clone it using the following command:
+---
 
-git clone https://github.com/Didinga/web-page.git
+## Getting Started
 
+No installation needed. Clone the repo and open `index.html` in your browser:
 
-### Usage
+```bash
+git clone https://github.com/Didinga/web_page.git
+cd web_page
+```
 
-To view the project on your local machine, open the `index.html` file in your web browser.
+Then open `index.html` in your browser.
 
-### Project Structure
+---
 
-- **index.html:** Home page.
-- **about.html:** About me page.
-- **portfolio.html:** Portfolio page.
-- **contact.html:** Contact page.
+## Technologies
 
+- HTML5
+- CSS3
+- GitHub Pages (deployment)
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+## Author
+
+**Didinga Omodi**
+- GitHub: [@Didinga](https://github.com/Didinga)
+- LinkedIn: [didiomodi](https://www.linkedin.com/in/didiomodi/)
+- Live site: [didinga.github.io/web_page](https://didinga.github.io/web_page/)
